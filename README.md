@@ -1,10 +1,6 @@
-# React TypeScript Starter Pack
+# React Todo App with API
+Simple, intuitive app for managing simple tasks developed with best practices. React To-Do App with API integration for adding, deleting, toggling, and renaming tasks.
 
-To use this template click `Use this template`
+Technologies: React, Typescript, JavaScript, HTML5, CSS3, REST API, Bulma
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
 - [DEMO LINK](https://dyakym.github.io/todo-app/)
